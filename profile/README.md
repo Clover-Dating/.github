@@ -71,5 +71,5 @@ The main app is in a private repo during development. We'll share more as we get
 Clover is a labor of love. If you believe in the vision of this project, consider [making a donation](https://givebutter.com/JdcVTE). Every contribution helps us build something that puts users first.
 
 <p align="center">
-  <img src="avatar-logomark-circle.png" alt="" width="120">
+  <img src="avatar-logomark-circle.png" alt="" width="250">
 </p>
