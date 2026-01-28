@@ -78,4 +78,6 @@ Clover is a labor of love. If you believe in the vision of this project, conside
 
 ---
 
-*Clover Dating · 2026*
+<p align="center">
+  <img src="avatar-logomark-circle.png" alt="" width="120">
+</p>
