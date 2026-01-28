@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-logomark.png" alt="Clover Dating" width="100%">
+</p>
+
 # Clover Dating
 
 **Dating without games or swiping. Deep compatibility matching—like the best dating apps, before they sold out.**
