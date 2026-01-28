@@ -12,7 +12,7 @@
 
 Online dating is in shambles. The most popular apps are designed to keep you swiping, not to help you find someone. They've optimized for engagement and revenue at the expense of actually matching people.
 
-We're building the dating app that *should* exist—one that respects your time, prioritizes compatibility, and gets out of your way once you've found your person.
+We're building the dating app that *should* exist—one that respects your time and prioritizes compatibility.
 
 We're inspired by what OkCupid was during its golden era (2009–2015), before the Match Group acquisition gutted everything that made it work. Deep match questions, transparent compatibility scores, and rich profiles that let you actually get to know someone before messaging them.
 
