@@ -16,7 +16,6 @@ We're building the dating app that *should* exist—one that respects your time 
 
 We're inspired by what OkCupid was during its golden era (2009–2015), before the Match Group acquisition gutted everything that made it work. Deep match questions, transparent compatibility scores, and rich profiles that let you actually get to know someone before messaging them.
 
----
 
 ## Philosophy
 
@@ -28,7 +27,6 @@ We're inspired by what OkCupid was during its golden era (2009–2015), before t
 
 **Quality over quantity.** Message limits promote intentionality. We'd rather you send one thoughtful message than spam a hundred.
 
----
 
 ## Business Model
 
@@ -36,7 +34,6 @@ We're funding Clover through donations with the goal of keeping it free and open
 
 **No freemium games.** We won't artificially restrict features to push you toward premium tiers. If donation funding proves unsustainable long-term, we'll introduce a minimal subscription ($3–5/month) with ways to earn free access. Either way, the goal is sustainability of a public good, not profit extraction.
 
----
 
 ## Tech Stack
 
@@ -50,7 +47,6 @@ We're funding Clover through donations with the goal of keeping it free and open
 | Backend | Supabase (PostgreSQL, Auth, Storage, Realtime) |
 | State | React Context + direct Supabase calls |
 
----
 
 ## Current Status
 
@@ -62,7 +58,6 @@ Clover is in active development.
 
 The main app is in a private repo during development. We'll share more as we get closer to launch.
 
----
 
 ## Follow Along
 
@@ -70,12 +65,8 @@ The main app is in a private repo during development. We'll share more as we get
 - **X/Twitter**: [@DateClover](https://twitter.com/DateClover)
 - **Email**: [hello@clover.dating](mailto:hello@clover.dating)
 
----
 
 ## Support the Project
 
 Clover is a labor of love. If you believe in the vision of this project, consider [making a donation](https://givebutter.com/JdcVTE). Every contribution helps us build something that puts users first.
 
----
-
-*Clover Dating · 2026*
