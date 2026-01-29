@@ -50,13 +50,9 @@ We're funding Clover through donations with the goal of keeping it free and open
 
 ## Current Status
 
-Clover is in active development.
+Clover is in active development. The main app is in a private repo during development — we'll share more as we get closer to launch.
 
-**Public repos:**
-- ![GitHub last commit](https://img.shields.io/github/last-commit/clover-dating/clover-dating.github.io) [Landing page](https://github.com/Clover-Dating/clover-dating.github.io) — Sign up for the waitlist at [clover.dating](https://clover.dating)
-- ![GitHub last commit](https://img.shields.io/github/last-commit/clover-dating/branding) [Branding](https://github.com/Clover-Dating/branding) — Logos, icons, and brand assets
-
-The main app is in a private repo during development. We'll share more as we get closer to launch.
+We do have public repos for the current landing page, branding, and for a (so far empty, but waiting) blog.
 
 
 ## Follow Along
