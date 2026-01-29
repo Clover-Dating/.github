@@ -4,7 +4,7 @@
 
 # Clover Dating
 
-**Dating without games or swiping. Deep compatibility matching—like the best dating apps, before they sold out.**
+**Humane online dating. Deep compatibility matching without the swiping, ads, or games.**
 
 ---
 
