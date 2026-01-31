@@ -4,7 +4,7 @@
 
 # Clover Dating
 
-**Humane online dating. Deep compatibility matching without the swiping, ads, or games.**
+**Clover is a humane dating app focused on compatibility, without ads or swiping.**
 
 ---
 
